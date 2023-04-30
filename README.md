@@ -15,5 +15,5 @@ The false news phenomenon is growing swiftly as social media and communication t
   • Evaluate the performance of each classifier on the testing set using accuracy, precision, recall, and F1-score.
 ### Step 4: Selecting the Best Classifier
   • Choose the classifier with the highest accuracy on the testing set as the final model for fake news detection.
-Step 5: Model Deployment
+### Step 5: Model Deployment
   • Deploy the final model to detect fake news on new data.
